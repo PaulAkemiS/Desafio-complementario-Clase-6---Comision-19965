@@ -24,13 +24,6 @@ coco.sumaIva();
 nueces.sumaIva();
 almendras.sumaIva();
 
-console.log(avena);
-console.log(harina);
-console.log(mascabo);
-console.log(coco);
-console.log(nueces);
-console.log(almendras);
-
 
 const listaPrecio = alert(
     "Bienvenido, estas es nuestra lista de precios:" +
